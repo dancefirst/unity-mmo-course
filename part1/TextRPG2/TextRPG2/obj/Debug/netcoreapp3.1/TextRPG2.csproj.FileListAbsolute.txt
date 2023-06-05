@@ -1,0 +1,13 @@
+/Users/ditto/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.deps.json
+/Users/ditto/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.runtimeconfig.json
+/Users/ditto/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.runtimeconfig.dev.json
+/Users/ditto/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.dll
+/Users/ditto/Projects/TextRPG2/TextRPG2/bin/Debug/netcoreapp3.1/TextRPG2.pdb
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.csproj.AssemblyReference.cache
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.AssemblyInfoInputs.cache
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.AssemblyInfo.cs
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.csproj.CoreCompileInputs.cache
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.dll
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.pdb
+/Users/ditto/Projects/TextRPG2/TextRPG2/obj/Debug/netcoreapp3.1/TextRPG2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/bin/Debug/netcoreapp3.1/ObjectedOriented.deps.json
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/bin/Debug/netcoreapp3.1/ObjectedOriented.runtimeconfig.json
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/bin/Debug/netcoreapp3.1/ObjectedOriented.runtimeconfig.dev.json
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/bin/Debug/netcoreapp3.1/ObjectedOriented.dll
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/bin/Debug/netcoreapp3.1/ObjectedOriented.pdb
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.csproj.AssemblyReference.cache
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.AssemblyInfoInputs.cache
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.AssemblyInfo.cs
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.csproj.CoreCompileInputs.cache
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.dll
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.pdb
+/Users/ditto/Projects/ObjectedOriented/ObjectedOriented/obj/Debug/netcoreapp3.1/ObjectedOriented.genruntimeconfig.cache
