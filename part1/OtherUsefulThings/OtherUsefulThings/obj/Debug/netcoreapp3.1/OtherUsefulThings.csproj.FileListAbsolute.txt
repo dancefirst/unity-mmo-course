@@ -1,0 +1,13 @@
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/bin/Debug/netcoreapp3.1/OtherUsefulThings.deps.json
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/bin/Debug/netcoreapp3.1/OtherUsefulThings.runtimeconfig.json
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/bin/Debug/netcoreapp3.1/OtherUsefulThings.runtimeconfig.dev.json
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/bin/Debug/netcoreapp3.1/OtherUsefulThings.dll
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/bin/Debug/netcoreapp3.1/OtherUsefulThings.pdb
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.csproj.AssemblyReference.cache
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.AssemblyInfoInputs.cache
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.AssemblyInfo.cs
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.csproj.CoreCompileInputs.cache
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.dll
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.pdb
+/Users/ditto/Projects/OtherUsefulThings/OtherUsefulThings/obj/Debug/netcoreapp3.1/OtherUsefulThings.genruntimeconfig.cache

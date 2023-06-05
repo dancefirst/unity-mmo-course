@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/ditto/.dotnet/store/|arch|/|tfm|",
+      "/Users/ditto/.nuget/packages"
+    ]
+  }
+}
